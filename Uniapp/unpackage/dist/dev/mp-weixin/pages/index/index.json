@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "xcx-auth": "/components/wx_auth/xcx_auth"
+  }
+}
